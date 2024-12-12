@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hi I'm Emanuel !<br>👨🏻‍💻 I'm a FullStack Javascript Developer with 3 years of experience<br>👀 I'm interested in learning new technologies<br>👇 I’m currently learning Nest-JS
+👋 ¡Hello I'm Emanuel !<br>👨🏻‍💻 I'm a FullStack Javascript Developer with 3 years of experience<br>👀 I'm interested in learning new technologies<br>👇 I’m currently learning Nest-JS
 
 
 ## 🌐 Socials:
