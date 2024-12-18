@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=emanuelhardwell&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
+## 🐦 Latest Tweet:
 [![](https://gtce.itsvg.in/api?username=emanuel-h)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
