@@ -18,7 +18,7 @@
 ## 🐦 Latest Tweet:
 [![](https://gtce.itsvg.in/api?username=emanuel-h)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
